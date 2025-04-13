@@ -2,7 +2,6 @@
 
 A full-stack MERN application that generates and shares AI-powered images using OpenAI's API.
 
-![AI Image Generator](https://via.placeholder.com/800x400?text=AI+Image+Generator)
 
 ## 📝 Description
 
@@ -30,11 +29,6 @@ This project is a web application that allows users to generate images using art
 - MongoDB for database
 - Mongoose ODM
 - OpenAI API integration
-
-### Deployment
-- Frontend: Netlify
-- Backend: Render
-- Database: MongoDB Atlas
 
 ## 📦 Installation and Setup
 
